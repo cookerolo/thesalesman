@@ -1,5 +1,5 @@
 # thesalesman
-___
+
 PHP solution for The Salesman coding challenge
 
 The statement of the problem is on the file the-salesman-English.pdf
